@@ -49,4 +49,8 @@ This project is Live in this link https://todo-application-reactjs-tailwind-css.
 
 ---
 
-Feel free to customize this description to better fit your project's specifics or to add any additional information you think might be helpful.
+ ## Screenshots 
+
+ <img width="297" alt="image" src="https://github.com/imrohitsampannavar45/Todo_Application-Reactjs-TailwindCSS/assets/88710389/c0200984-2441-47c2-8210-93926de2c726">
+
+
