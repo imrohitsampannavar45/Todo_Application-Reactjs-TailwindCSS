@@ -19,12 +19,12 @@ This is a simple and elegant Todo application built using ReactJS and Tailwind C
 
 1. Clone the repository:
     ```bash
-    git clone git clone https://github.com/yourusername/todo-app.git
+    git clone git clone https://github.com/imrohitsampannavar45/Todo_Application-Reactjs-TailwindCSS.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd todo-app
+    cd Todo_Application-Reactjs-TailwindCSS
     ```
 
 3. Install the dependencies:
@@ -34,18 +34,18 @@ This is a simple and elegant Todo application built using ReactJS and Tailwind C
 
 4. Start the development server:
     ```bash
-    npm start
+    npm run dev
     ```
 
-5. Open your browser and go to `http://localhost:3000` to see the app in action.
+5. Open your browser and go to `http://localhost:5137` to see the app in action.
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
 
-## License
+## Live Demo
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is Live in this link https://todo-application-reactjs-tailwind-css.vercel.app/
 
 ---
 
