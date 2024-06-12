@@ -19,7 +19,7 @@ This is a simple and elegant Todo application built using ReactJS and Tailwind C
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/todo-app.git
+    git clone git clone https://github.com/yourusername/todo-app.git
     ```
 
 2. Navigate to the project directory:
